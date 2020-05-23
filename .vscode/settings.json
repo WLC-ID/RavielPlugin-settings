@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "files.associations": {
+        "*.lang": "yaml"
+      }
+}
